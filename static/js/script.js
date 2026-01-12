@@ -1,7 +1,3 @@
-// ========================================
-// PUREZA - JavaScript Interativo
-// ========================================
-
 document.addEventListener('DOMContentLoaded', function() {
     // Inicializar efeitos
     initScrollAnimations();
