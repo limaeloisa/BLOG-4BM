@@ -3,7 +3,6 @@ import mysql.connector
 from mysql.connector import Error
 
 app = Flask(__name__)
-app.secret_key = 'pureza-blog-2024'
 
 # Conectar ao banco de dados
 def conectar_bd():
